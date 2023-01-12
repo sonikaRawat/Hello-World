@@ -64,7 +64,7 @@ After you're finished please remove all the comments and instructions!
 
 > Describe your project in 1 or 2 sentences.
 
-**[Hello-World]** is a project showcasing basic html layout
+**Hello-World** is a project showcasing basic html layout.
 
 ## 🛠 Built With <a name="built-with"></a>
 
